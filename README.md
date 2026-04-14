@@ -47,7 +47,17 @@ This system:
 - Predicts future energy usage from historical data
 
 ---
+🌍 Future Enhancements
+Weather-based forecasting 🌦️
+Anomaly detection 🚨
+Real-time data integration ⚡
+💼 Resume Description
 
+Developed and deployed an AI-powered energy forecasting dashboard using LSTM and Streamlit for real-time predictions and smart energy analytics.
+
+🔗 Author
+
+Krishna Kadel
 ## ▶️ How to Run
 
 ```bash
